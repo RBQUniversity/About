@@ -1,13 +1,17 @@
-# 关于
+# RBQ University
 
-RBQ University，是一所位于日本东京的虚拟全球 RBQ 科目大学，RBQ 科目在所有大学中位列第一。  
-我们希望培养学生成为 RBQ 以实现其自身价值。  
+English | [中文(中国)](README_zh-cn.md)  
 
-# 如何申请加入 RBQ University
+## About
 
-申请成为 RBQ University 的一员，您不需要任何考试成绩，您需要做的只是在此<ruby>存储库<rp>（</rp><rt>repository</rt><rp>）</rp></ruby>打开一个 issue 并且阐述您想要加入 RBQ University。  
-在接受您的申请后，一封邀请信会发送至您与 GitHub 相关联的邮箱内。如果您没有收到任何邮件，但是您的申请已被批准，尝试点击 [这个链接](https://github.com/orgs/RBQUniversity/invitation?via_email=1)。通常地，它会工作。如果它没有，请与我们直接取得联系。  
+RBQ University, is a virtual global RBQ subject university located in Tokyo, Japan.  
+We want to train students to become RBQ to realize their own value.  
 
-# 校友邮箱
+## How to apply RBQ University
 
-加入 RBQ University 后，您可以申请您的校友邮箱。您需要在发送一封申请邮件至 postmaster@is-rbq.com。 其中需要包含您的 GitHub ID 以及您所需要的别名。我们推荐您使用您的 GitHub 账户中公开的邮箱地址发送申请邮件。  
+To apply RBQ University, you needn't any exam scores. What you need do is just open an issue on this repository and say that you want to join RBQ University.  
+
+If your application is accepted, you will receive an offer email with an invitation link. Alternatively, you can try [this link]((https://github.com/orgs/RBQUniversity/invitation?via_email=1)). If neither works for you, please contact us directly.  
+
+## Alumni Mail
+After join RBQ University, you can apply your alumni account by emailing postmaster@is-rbq.com. In the email, don't forget to mention your GitHub ID and the alias which you want. We recommend that you use the public email address in your GitHub profile to send the application email.  
