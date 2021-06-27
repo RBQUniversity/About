@@ -2,7 +2,7 @@
 name: 申请加入 RBQ 大学
 about: 申请加入 RBQ 大学，成为顶级 RBQ！
 title: ''
-labels: ''
+labels: application
 assignees: AkinoKaede, KevinZonda
 
 ---
