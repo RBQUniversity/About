@@ -1,10 +1,9 @@
 ---
-name: 申请加入 RBQ 大学
-about: 申请加入 RBQ 大学，成为顶级 RBQ！
-title: ''
+name: 申请
+about: 申请加入 RBQ 大学
+title: '申请'
 labels: application
 assignees: AkinoKaede, KevinZonda
-
 ---
 
 亲爱的 RBQ 大学：
