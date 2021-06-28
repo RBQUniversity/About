@@ -1,6 +1,6 @@
 # RBQ University
 
-English | [简体中文(中国大陆)](README_zh-cn.md)  
+English | [中文(中国)](README_zh-cn.md)  
 
 ## About
 
