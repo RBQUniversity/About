@@ -8,7 +8,7 @@ assignees: AkinoKaede, KevinZonda
 
 Dear whom may concern,
 
-Hello. I want to join RBQ University to study how to become a RBQ!
+Hello. I want to join RBQ University to study how to become an RBQ!
 
 Regards,  
 Your Name
