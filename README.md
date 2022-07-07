@@ -13,6 +13,6 @@ To apply RBQ University, you needn't any examination scores. What you need do is
 
 If your application is accepted, you will receive an offer email with an invitation link. Alternatively, you can try [this link](https://github.com/orgs/RBQUniversity/invitation?via_email=1). If neither work for you, please contact us directly.  
 
-## Alumni Mail
+## Email
 
-After join RBQ University, you can apply your alumni account by emailing postmaster@rbq.edu.pl. In the email, don't forget to mention your GitHub ID and the alias which you want. We recommend that you use the public email address in your GitHub profile to send the application email.  
+After join RBQ University, you can apply your email by filling [this form](https://forms.office.com/r/2CB2DKbg1b).  
