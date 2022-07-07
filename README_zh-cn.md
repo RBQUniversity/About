@@ -14,4 +14,4 @@ RBQ 大学（RBQ University），是一所位于日本东京的虚拟全球 RBQ 
 
 ## 校友邮箱
 
-加入 RBQ 大学后，您可以申请您的校友邮箱。您需要在发送一封申请邮件至 postmaster@is-rbq.com。 其中需要包含您的 GitHub ID 以及您所需要的别名。我们推荐您使用您的 GitHub 账户中公开的邮箱地址发送申请邮件。  
+加入 RBQ 大学后，您可以申请您的校友邮箱。您需要在发送一封申请邮件至 postmaster@rbq.edu.pl 其中需要包含您的 GitHub ID 以及您所需要的别名。我们推荐您使用您的 GitHub 账户中公开的邮箱地址发送申请邮件。  

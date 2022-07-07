@@ -15,4 +15,4 @@ If your application is accepted, you will receive an offer email with an invitat
 
 ## Alumni Mail
 
-After join RBQ University, you can apply your alumni account by emailing postmaster@is-rbq.com. In the email, don't forget to mention your GitHub ID and the alias which you want. We recommend that you use the public email address in your GitHub profile to send the application email.  
+After join RBQ University, you can apply your alumni account by emailing postmaster@rbq.edu.pl. In the email, don't forget to mention your GitHub ID and the alias which you want. We recommend that you use the public email address in your GitHub profile to send the application email.  
