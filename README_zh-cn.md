@@ -15,3 +15,6 @@ RBQ 大学（RBQ University），是一所位于日本东京的虚拟全球 RBQ 
 ## 邮箱
 
 加入 RBQ 大学后，您可以填写[这个表格](https://forms.office.com/r/2CB2DKbg1b)以申请您的邮箱。
+
+
+
