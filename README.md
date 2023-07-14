@@ -15,4 +15,4 @@ If your application is accepted, you will receive an offer email with an invitat
 
 ## Email
 
-After join RBQ University, you can apply your email by filling [this form](https://forms.office.com/r/2CB2DKbg1b).  
+***Due to force majeure, email is temporarily unavailable.***
