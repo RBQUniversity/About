@@ -15,4 +15,4 @@ If your application is accepted, you will receive an offer email with an invitat
 
 ## Email
 
-***Due to force majeure, email is temporarily unavailable.***
+Seats are limited, [apply](https://rpfnqihlrhu.jp.larksuite.com/share/base/form/shrjp0y7KgJoSgf8txXKzqGiOJc) on demand.
